@@ -10,7 +10,6 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 - 🌱 I’m currently learning **Rust, Go, AI**
 - 💬 Ask me about **Python, JavaScript, and Web Development**
 - 📫 How to reach me: **[zabala@duck.com]**
-- ⚡ Fun fact: I love playing chess and hiking in my free time.
 
 ## Skills
 
